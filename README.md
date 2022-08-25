@@ -4,7 +4,7 @@
 
 - ***Programming Language***
 
-  * Familiar with **C**, Learning **Javascript**.
+  * Familiar with **C**. Learning **Javascript**. Already learned **Git**, **C++**, **SQL**, **Java** but I don't realy use them.
 
 - ***Daily Tools***
 

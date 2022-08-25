@@ -12,7 +12,7 @@
 
 - ***Work Experience***
 
-  * Android Development course (not finished). Still a student.
+  * Still a student.
 
 - ***Contact Me***
 

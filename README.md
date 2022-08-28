@@ -4,7 +4,7 @@
 
 - ***Programming Language***
 
-  * Familiar with **C**. Learning **To build an OS**. Already learned **Git**, **C++**, **SQL**, **Java** but I don't realy use them, Knows **Javascript** and **Python** but I don't like them.
+  * Familiar with **C**. Learning **Javascript**. Already learned **Git**, **C++**, **Go** but I don't realy use them, Knows **** and **Python**, **SQL**, and **Java** but I don't like them.
 
 - ***Daily Tools***
 

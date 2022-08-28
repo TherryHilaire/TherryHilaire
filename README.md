@@ -8,7 +8,7 @@
 
 - ***Daily Tools***
 
-  * Can adapt to any editor. Daily using neovim under ZorinOS (free version).
+  * Can adapt to any editor (except emacs lol). Daily using neovim under ZorinOS (free version).
 
 - ***Work Experience***
 

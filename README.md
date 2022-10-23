@@ -4,11 +4,15 @@
 
 - ***Programming Language***
 
-  * Familiar with **C**. Learning **Rust** and **To Build an Os**. Already learned **Git**, **C++**, **Go** but I don't realy use them, Knows **Python**, **SQL**, and **Java** but I don't like them.
+  * Familiar with **C**. Learning **Rust**. 
+  
+- ***Current Project***
+
+  * Building a programming language.
 
 - ***Daily Tools***
 
-  * Can adapt to any editor (except emacs lol). Daily using neovim under ZorinOS (free version).
+  * Can adapt to any editor. Daily using emacs under Pop!_OS (free version).
 
 - ***Work Experience***
 

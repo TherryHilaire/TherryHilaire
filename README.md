@@ -12,7 +12,7 @@
 
 - ***Daily Tools***
 
-  * Can adapt to any editor. Daily using emacs under Pop!_OS (free version).
+  * Can adapt to any editor. Daily using emacs under Pop!_OS. Planning on switching to Fedora 37 when the Iso is released.
 
 - ***Work Experience***
 

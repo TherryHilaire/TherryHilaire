@@ -4,15 +4,15 @@
 
 - ***Programming Language***
 
-  * Familiar with **C**. Learning **Rust**. 
+  * Familiar with **Rust**. Learning **Bevy**. 
   
 - ***Current Project***
 
-  * Building a programming language.
+  * I stopped because of school.
 
 - ***Daily Tools***
 
-  * Can adapt to any editor. Daily using emacs under Arch Linux. Planning on switching to Fedora 37 when the Iso is released.
+  * Can adapt to any editor. Daily using NeoVim under Arch Linux. Planning on switching to Fedora 37 when the Iso is released.
 
 - ***Work Experience***
 

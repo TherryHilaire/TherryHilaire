@@ -12,7 +12,7 @@
 
 - ***Daily Tools***
 
-  * Can adapt to any editor. Daily using NeoVim under Fedora 37. My wifi isn't working :(.
+  * Can adapt to any editor. Daily using NeoVim under Fedora 37. My wifi isn't working :(
 
 - ***Work Experience***
 

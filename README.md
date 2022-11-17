@@ -1,6 +1,6 @@
 # 👋 Hey, my name is Therry
 
-<img align="right" width="25%" src="./IMG-2533.jpg"/>
+<img align="right" width="25%" src="./IMG-2533.png"/>
 
 - ***Programming Language***
 

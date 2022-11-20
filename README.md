@@ -4,7 +4,7 @@
 
 - ***Programming Language***
 
-  * Familiar with **Rust**. Learning **Bevy**. 
+  * Familiar with **Rust**, **JavaScript**. Using **Bevy** for games, **Svelte** and **Yew** for Website. 
   
 - ***Current Project***
 
@@ -12,7 +12,7 @@
 
 - ***Daily Tools***
 
-  * Can adapt to any editor. Daily using NeoVim under Fedora 37. My wifi isn't working :(
+  * Can adapt to any editor. Daily using Helix under Pop!_OS.
 
 - ***Work Experience***
 

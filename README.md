@@ -4,7 +4,7 @@
 
 - ***Programming Language***
 
-  * Familiar with **Rust**, **JavaScript**. Using **Bevy** for games, **Svelte** and **Yew** for Website. 
+  * Familiar with **Rust**, **JavaScript**. Using **Bevy** for games, **Svelte**, **Yew**, **Leptos** and **Actix** for Website. 
   
 - ***Current Project***
 

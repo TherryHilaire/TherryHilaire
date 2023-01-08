@@ -4,7 +4,7 @@
 
 - ***Programming Language***
 
-  * Familiar with **Rust**, **JavaScript**. Using **Bevy** for games, **Svelte**, **Yew**, **Leptos** and **Actix** for Website. 
+  * Familiar with **C**, **C++** and **Python**. 
   
 - ***Current Project***
 
@@ -12,7 +12,7 @@
 
 - ***Daily Tools***
 
-  * Can adapt to any editor. Daily using Helix under Pop!_OS.
+  * Can adapt to any editor. Daily using Neovim under Pop!_OS.
 
 - ***Work Experience***
 

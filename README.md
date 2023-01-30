@@ -4,7 +4,7 @@
 
 - ***Programming Language***
 
-  * Familiar with **C**, **C++** and **Python**. 
+  * Familiar with **C**, **Javascript**, **Rust** and **Python**. 
   
 - ***Current Project***
 

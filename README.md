@@ -8,11 +8,11 @@
   
 - ***Current Project***
 
-  * I stopped because of school.
+  * I am currently working on my own startup MaKlass.
 
 - ***Daily Tools***
 
-  * Can adapt to any editor. Daily using Neovim under Pop!_OS.
+  * Can adapt to any editor. Daily using Neovim and sometime VSCodium under Artix Linux.
 
 - ***Work Experience***
 

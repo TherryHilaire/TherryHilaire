@@ -12,7 +12,7 @@
 
 - ***Daily Tools***
 
-  * Can adapt to any editor. Daily using Neovim and sometime VSCodium under Artix Linux.
+  * Can adapt to any editor. Daily using Neovim and sometime VSCodium under Arch Linux (btw).
 
 - ***Work Experience***
 

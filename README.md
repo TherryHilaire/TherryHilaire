@@ -16,7 +16,11 @@
 
 - ***Work Experience***
 
-  * Still a student.
+  * None.
+
+- ***Education***
+
+  * Tenth grade stuident in High school.
 
 - ***Contact Me***
 

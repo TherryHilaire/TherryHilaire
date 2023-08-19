@@ -4,19 +4,19 @@
 
 - ***Programming Language***
 
-  * Familiar with **C**, **Javascript**, **Rust** and **Python**. 
+  * Familiar with **C**, **Javascript**and **Python**. 
   
 - ***Current Project***
 
-  * I am currently working on my own startup MaKlass.
+  * I am currently working with PHTK (Haitian Tèt Kale Party).
 
 - ***Daily Tools***
 
-  * Can adapt to any editor. Daily using Neovim and sometime VSCodium under Arch Linux (btw).
+  * Can adapt to any editor. Daily using Neovim and sometime VSCode under Arch Linux (btw).
 
 - ***Work Experience***
 
-  * None.
+  * I worked a an assistant teacher for CEDEC (Centre de Developpement Communautaire) Haiti during the summer of 2023.
 
 - ***Education***
 

@@ -1,26 +1,27 @@
-# 👋 Hey, my name is Therry
+# 👋 Hey, my name is Therry, I'm a 15 year old Haitian with a passion for anything related to technology
 
 <img align="right" width="25%" src="./IMG-2533.png"/>
 
 - ***Programming Language***
 
-  * Familiar with **C**, **Javascript**and **Python**. 
+  * Familiar with **C**, **Javascript** and **Python**. 
   
 - ***Current Project***
 
-  * I am currently working with PHTK (Haitian Tèt Kale Party).
+  * I am currently studying for a CISSP certification.
 
 - ***Daily Tools***
 
-  * Can adapt to any editor. Daily using Neovim and sometime VSCode under Arch Linux (btw).
+  * Can adapt to any editor. Daily using Vim  under Linux Mint.
 
 - ***Work Experience***
 
-  * I worked a an assistant teacher for CEDEC (Centre de Developpement Communautaire) Haiti during the summer of 2023.
+  * Assistant teacher for CEDEC (Centre de Developpement Communautaire) Haiti during the summer of 2023
+  * Contracted during the summer of 2023 to work as developper on a ungoing project.
 
 - ***Education***
 
-  * Tenth grade stuident in High school.
+  * Tenth grade student in High school.
 
 - ***Contact Me***
 

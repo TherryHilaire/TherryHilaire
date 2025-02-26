@@ -1,4 +1,4 @@
-# 👋 Hey, my name is Therry, I'm a 15 year old Haitian with a passion for anything related to technology
+# 👋 Hey, my name is Therry, I'm a 16 year old Haitian with a passion for anything related to technology
 
 <img align="right" width="25%" src="./IMG-2533.png"/>
 
@@ -12,7 +12,7 @@
 
 - ***Daily Tools***
 
-  * Can adapt to any editor. Daily using Vim  under Linux Mint.
+  * Can adapt to any editor. Daily using Vim under Arch Linux.
 
 - ***Work Experience***
 

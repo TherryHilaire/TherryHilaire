@@ -8,7 +8,7 @@
   
 - ***Current Project***
 
-  * I am currently studying for a CISSP certification.
+  * I'm currently taking an online course to become a Red Teamer.
 
 - ***Daily Tools***
 
@@ -18,10 +18,13 @@
 
   * Assistant teacher for CEDEC (Centre de Developpement Communautaire) Haiti during the summer of 2023
   * Contracted during the summer of 2023 to work as developper on a ungoing project.
+  * Setting up my own home network infrastructure on my server with Nextcloud and Proxmox
+  * Developing and maintaining my school's newspaper's website <a href="https://flashlad.com/"/>(FlashLAD)</a>  
 
 - ***Education***
 
-  * Tenth grade student in High school.
+  * Eleventh grade student in High school.
+  * TryHackMe Jr Penetration Tester learning path.
 
 - ***Contact Me***
 

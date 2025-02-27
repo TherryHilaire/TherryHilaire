@@ -28,7 +28,7 @@
 
 - ***Contact Me***
 
-  * Email: [`therryleseul@gmail.com`](mailto:therryleseul@gmail.com)
+  * Email: [`therryhilaire@gmail.com`](mailto:therryhilaire@gmail.com)
 
 ## Stats
 

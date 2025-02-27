@@ -1,6 +1,6 @@
 # 👋 Hey, my name is Therry, I'm a 16 year old Haitian with a passion for anything related to technology
 
-<img align="right" width="25%" src="./IMG-2533.png"/>
+<img align="right" width="25%" src="./PFP.jpeg"/>
 
 - ***Programming Language***
 

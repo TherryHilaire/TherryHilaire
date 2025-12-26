@@ -1,4 +1,4 @@
-# 👋 Hey, my name is Therry, I'm a 16 year old Haitian with a passion for anything related to technology
+# 👋 Hey, my name is Therry, I'm a 17 year old Haitian with a passion for anything related to technology
 
 <img align="right" width="25%" src="./PFP.jpeg"/>
 
